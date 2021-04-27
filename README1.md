@@ -14,3 +14,5 @@
 ## **3. Rozbor ceny**
 
 - řekl bych, že robot by mohl stát okolo 10-15 mil. korun
+
+![obr](https://www.technopat.net/wp-content/uploads/2011/08/Eset-Robot.jpg)
