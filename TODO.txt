@@ -1,0 +1,7 @@
+1. Nejpodstatnější je hlavně vymyslet, jak bude robot fungovat.
+2. Promyslet program.
+3. Promyslet jaký materiál potřebujeme.
+4. Nakoupit materiál.
+5. Vymodelovat/svařit/upravit různé díly.
+6. Sestavit robota.
+7. Naprogramovat.
